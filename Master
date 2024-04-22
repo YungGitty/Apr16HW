@@ -1,0 +1,7 @@
+This is the master file.
+I will now proceed with adding 4 different branches. 
+I will push those branches up to github, per the hw instructions. 
+See Below:
+Create a repository , create 4 different branches, put files in them , push them up to the repo
+Commands to keep in mind ( git clone <url> , git add . , git commit -m "message" , git push -u origin <branch name> )
+** bonus, create a pull request from one of your branches to your master
